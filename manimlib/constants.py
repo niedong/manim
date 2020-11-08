@@ -116,8 +116,8 @@ NO_SCENE_MESSAGE = """
 
 # There might be other configuration than pixel shape later...
 PRODUCTION_QUALITY_CAMERA_CONFIG = {
-    "pixel_height": 1440,
-    "pixel_width": 2560,
+    "pixel_height": 2160,
+    "pixel_width": 3840,
     "frame_rate": 60,
 }
 
